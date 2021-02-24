@@ -1,0 +1,9 @@
+C:\Users\Mark\Desktop\Gus\GaussSolution\bin\Debug\GaussSolution.exe
+C:\Users\Mark\Desktop\Gus\GaussSolution\bin\Debug\GaussSolution.pdb
+C:\Users\Mark\Desktop\Gus\GaussSolution\obj\Debug\GaussSolution.csprojAssemblyReference.cache
+C:\Users\Mark\Desktop\Gus\GaussSolution\obj\Debug\GaussSolution.Properties.Resources.resources
+C:\Users\Mark\Desktop\Gus\GaussSolution\obj\Debug\GaussSolution.csproj.GenerateResource.cache
+C:\Users\Mark\Desktop\Gus\GaussSolution\obj\Debug\GaussSolution.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\Gus\GaussSolution\obj\Debug\GaussSolution.exe
+C:\Users\Mark\Desktop\Gus\GaussSolution\obj\Debug\GaussSolution.pdb
+C:\Users\Mark\Desktop\Gus\GaussSolution\obj\Debug\GaussSolution.MainForm.resources

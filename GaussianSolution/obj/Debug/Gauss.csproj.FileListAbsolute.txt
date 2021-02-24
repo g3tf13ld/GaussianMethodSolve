@@ -1,0 +1,19 @@
+C:\Users\IT6_2\Desktop\Новая папка (3)\Gauss\bin\Debug\Gauss.exe
+C:\Users\IT6_2\Desktop\Новая папка (3)\Gauss\bin\Debug\Gauss.pdb
+C:\Users\IT6_2\Desktop\Новая папка (3)\Gauss\obj\Debug\Gauss.csprojAssemblyReference.cache
+C:\Users\IT6_2\Desktop\Новая папка (3)\Gauss\obj\Debug\Gauss.AboutBox.resources
+C:\Users\IT6_2\Desktop\Новая папка (3)\Gauss\obj\Debug\Gauss.MainForm.resources
+C:\Users\IT6_2\Desktop\Новая папка (3)\Gauss\obj\Debug\Gauss.Properties.Resources.resources
+C:\Users\IT6_2\Desktop\Новая папка (3)\Gauss\obj\Debug\Gauss.csproj.GenerateResource.cache
+C:\Users\IT6_2\Desktop\Новая папка (3)\Gauss\obj\Debug\Gauss.csproj.CoreCompileInputs.cache
+C:\Users\IT6_2\Desktop\Новая папка (3)\Gauss\obj\Debug\Gauss.exe
+C:\Users\IT6_2\Desktop\Новая папка (3)\Gauss\obj\Debug\Gauss.pdb
+C:\Users\Mark\Desktop\Gus\Gauss\bin\Debug\Gauss.exe
+C:\Users\Mark\Desktop\Gus\Gauss\bin\Debug\Gauss.pdb
+C:\Users\Mark\Desktop\Gus\Gauss\obj\Debug\Gauss.csprojAssemblyReference.cache
+C:\Users\Mark\Desktop\Gus\Gauss\obj\Debug\Gauss.MainForm.resources
+C:\Users\Mark\Desktop\Gus\Gauss\obj\Debug\Gauss.Properties.Resources.resources
+C:\Users\Mark\Desktop\Gus\Gauss\obj\Debug\Gauss.csproj.GenerateResource.cache
+C:\Users\Mark\Desktop\Gus\Gauss\obj\Debug\Gauss.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\Gus\Gauss\obj\Debug\Gauss.exe
+C:\Users\Mark\Desktop\Gus\Gauss\obj\Debug\Gauss.pdb
