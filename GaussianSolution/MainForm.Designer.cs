@@ -25,11 +25,11 @@ namespace GaussSolution {
         private void InitializeComponent()
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.עוסעמגûוÏנטלונûToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.ןנטלונ1ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.ןנטלונ2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.ןנטלונ3ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.ןנטלונ4ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.testExamplesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.example1ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.example2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.example3ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.example4ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.layoutMatrixA = new System.Windows.Forms.TableLayoutPanel();
@@ -50,7 +50,7 @@ namespace GaussSolution {
             // 
             // menuStrip1
             // 
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {this.עוסעמגûוÏנטלונûToolStripMenuItem});
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {this.testExamplesToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Padding = new System.Windows.Forms.Padding(7, 2, 0, 2);
@@ -58,40 +58,40 @@ namespace GaussSolution {
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
-            // עוסעמגûוÏנטלונûToolStripMenuItem
+            // testExamplesToolStripMenuItem
             // 
-            this.עוסעמגûוÏנטלונûToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {this.ןנטלונ1ToolStripMenuItem, this.ןנטלונ2ToolStripMenuItem, this.ןנטלונ3ToolStripMenuItem, this.ןנטלונ4ToolStripMenuItem});
-            this.עוסעמגûוÏנטלונûToolStripMenuItem.Name = "עוסעמגûוÏנטלונûToolStripMenuItem";
-            this.עוסעמגûוÏנטלונûToolStripMenuItem.Size = new System.Drawing.Size(69, 20);
-            this.עוסעמגûוÏנטלונûToolStripMenuItem.Text = "Examples";
+            this.testExamplesToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {this.example1ToolStripMenuItem, this.example2ToolStripMenuItem, this.example3ToolStripMenuItem, this.example4ToolStripMenuItem});
+            this.testExamplesToolStripMenuItem.Name = "testExamplesToolStripMenuItem";
+            this.testExamplesToolStripMenuItem.Size = new System.Drawing.Size(69, 20);
+            this.testExamplesToolStripMenuItem.Text = "Examples";
             // 
-            // ןנטלונ1ToolStripMenuItem
+            // example1ToolStripMenuItem
             // 
-            this.ןנטלונ1ToolStripMenuItem.Name = "ןנטלונ1ToolStripMenuItem";
-            this.ןנטלונ1ToolStripMenuItem.Size = new System.Drawing.Size(128, 22);
-            this.ןנטלונ1ToolStripMenuItem.Text = "Example 1";
-            this.ןנטלונ1ToolStripMenuItem.Click += new System.EventHandler(this.Example1ToolStripMenuItem_Click);
+            this.example1ToolStripMenuItem.Name = "example1ToolStripMenuItem";
+            this.example1ToolStripMenuItem.Size = new System.Drawing.Size(128, 22);
+            this.example1ToolStripMenuItem.Text = "Example 1";
+            this.example1ToolStripMenuItem.Click += new System.EventHandler(this.Example1ToolStripMenuItem_Click);
             // 
-            // ןנטלונ2ToolStripMenuItem
+            // example2ToolStripMenuItem
             // 
-            this.ןנטלונ2ToolStripMenuItem.Name = "ןנטלונ2ToolStripMenuItem";
-            this.ןנטלונ2ToolStripMenuItem.Size = new System.Drawing.Size(128, 22);
-            this.ןנטלונ2ToolStripMenuItem.Text = "Example 2";
-            this.ןנטלונ2ToolStripMenuItem.Click += new System.EventHandler(this.Example2ToolStripMenuItem_Click);
+            this.example2ToolStripMenuItem.Name = "example2ToolStripMenuItem";
+            this.example2ToolStripMenuItem.Size = new System.Drawing.Size(128, 22);
+            this.example2ToolStripMenuItem.Text = "Example 2";
+            this.example2ToolStripMenuItem.Click += new System.EventHandler(this.Example2ToolStripMenuItem_Click);
             // 
-            // ןנטלונ3ToolStripMenuItem
+            // example3ToolStripMenuItem
             // 
-            this.ןנטלונ3ToolStripMenuItem.Name = "ןנטלונ3ToolStripMenuItem";
-            this.ןנטלונ3ToolStripMenuItem.Size = new System.Drawing.Size(128, 22);
-            this.ןנטלונ3ToolStripMenuItem.Text = "Example 3";
-            this.ןנטלונ3ToolStripMenuItem.Click += new System.EventHandler(this.Example3ToolStripMenuItem_Click);
+            this.example3ToolStripMenuItem.Name = "example3ToolStripMenuItem";
+            this.example3ToolStripMenuItem.Size = new System.Drawing.Size(128, 22);
+            this.example3ToolStripMenuItem.Text = "Example 3";
+            this.example3ToolStripMenuItem.Click += new System.EventHandler(this.Example3ToolStripMenuItem_Click);
             // 
-            // ןנטלונ4ToolStripMenuItem
+            // example4ToolStripMenuItem
             // 
-            this.ןנטלונ4ToolStripMenuItem.Name = "ןנטלונ4ToolStripMenuItem";
-            this.ןנטלונ4ToolStripMenuItem.Size = new System.Drawing.Size(128, 22);
-            this.ןנטלונ4ToolStripMenuItem.Text = "Example 4";
-            this.ןנטלונ4ToolStripMenuItem.Click += new System.EventHandler(this.Example4ToolStripMenuItem_Click);
+            this.example4ToolStripMenuItem.Name = "example4ToolStripMenuItem";
+            this.example4ToolStripMenuItem.Size = new System.Drawing.Size(128, 22);
+            this.example4ToolStripMenuItem.Text = "Example 4";
+            this.example4ToolStripMenuItem.Click += new System.EventHandler(this.Example4ToolStripMenuItem_Click);
             // 
             // statusStrip1
             // 
@@ -290,11 +290,11 @@ namespace GaussSolution {
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.ToolStripMenuItem עוסעמגûוÏנטלונûToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem ןנטלונ1ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem ןנטלונ2ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem ןנטלונ3ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem ןנטלונ4ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem testExamplesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem example1ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem example2ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem example3ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem example4ToolStripMenuItem;
     }
 }
 

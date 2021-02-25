@@ -16,3 +16,12 @@ D:\Study\KSKR\Gus\GaussianSolution\obj\Debug\GaussianSolution.csproj.GenerateRes
 D:\Study\KSKR\Gus\GaussianSolution\obj\Debug\GaussianSolution.csproj.CoreCompileInputs.cache
 D:\Study\KSKR\Gus\GaussianSolution\obj\Debug\GaussianSolution.exe
 D:\Study\KSKR\Gus\GaussianSolution\obj\Debug\GaussianSolution.pdb
+D:\Study\KSKR\GaussianMethodSolve\GaussianSolution\bin\Debug\GaussianSolution.exe
+D:\Study\KSKR\GaussianMethodSolve\GaussianSolution\bin\Debug\GaussianSolution.pdb
+D:\Study\KSKR\GaussianMethodSolve\GaussianSolution\obj\Debug\GaussianSolution.csprojAssemblyReference.cache
+D:\Study\KSKR\GaussianMethodSolve\GaussianSolution\obj\Debug\GaussSolution.MainForm.resources
+D:\Study\KSKR\GaussianMethodSolve\GaussianSolution\obj\Debug\GaussSolution.Properties.Resources.resources
+D:\Study\KSKR\GaussianMethodSolve\GaussianSolution\obj\Debug\GaussianSolution.csproj.GenerateResource.cache
+D:\Study\KSKR\GaussianMethodSolve\GaussianSolution\obj\Debug\GaussianSolution.csproj.CoreCompileInputs.cache
+D:\Study\KSKR\GaussianMethodSolve\GaussianSolution\obj\Debug\GaussianSolution.exe
+D:\Study\KSKR\GaussianMethodSolve\GaussianSolution\obj\Debug\GaussianSolution.pdb
